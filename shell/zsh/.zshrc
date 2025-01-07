@@ -28,3 +28,6 @@ source "$DOTLY_PATH/shell/zsh/bindings/dot.zsh"
 source "$DOTLY_PATH/shell/zsh/bindings/reverse_search.zsh"
 source "$DOTFILES_PATH/shell/zsh/key-bindings.zsh"
 source "$HOME/.sdkman/bin/sdkman-init.sh"
+
+# Created by `pipx` on 2025-01-07 03:34:25
+export PATH="$PATH:/Users/rodolfo.quintana/.local/bin"
